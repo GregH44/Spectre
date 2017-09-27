@@ -17,3 +17,7 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+*.suo
+/.vs
+/Sample.Spectre.Web/.vs/Sample.Spectre.Web/v15/sqlite3
+/Sample.Spectre.Web/Sample.Spectre.Web/obj
