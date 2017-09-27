@@ -23,3 +23,4 @@ bin-release/
 /Sample.Spectre.Web/Sample.Spectre.Web/obj
 /Sample.Spectre.Web/SpectreFW/obj
 /Sample.Spectre.Web/Sample.Spectre.Web/Sample.Spectre.Web.csproj.user
+/Sample.Spectre.Web/Sample.Spectre.Web/wwwroot/Logs
