@@ -21,3 +21,5 @@ bin-release/
 /.vs
 /Sample.Spectre.Web/.vs/Sample.Spectre.Web/v15/sqlite3
 /Sample.Spectre.Web/Sample.Spectre.Web/obj
+/Sample.Spectre.Web/SpectreFW/obj
+/Sample.Spectre.Web/Sample.Spectre.Web/Sample.Spectre.Web.csproj.user
